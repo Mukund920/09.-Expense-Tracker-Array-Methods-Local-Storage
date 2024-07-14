@@ -33,4 +33,8 @@ cd expense-tracker
    - The app dynamically updates the total balance, income, and expenses every time you add or delete a transaction.
    - Transactions are categorized as income (green) or expense (red) for easy identification.
 
+## Add Expense and Income in Tracker
+![Add expense in tracker](https://github.com/user-attachments/assets/edc87429-68dd-41c8-a12d-98aad4c9577a)
 
+## Edit and Removing from list
+![Removing Expense](https://github.com/user-attachments/assets/252466ec-e998-470e-9539-68e8e9f968b0)
