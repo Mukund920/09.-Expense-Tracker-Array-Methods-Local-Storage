@@ -14,15 +14,6 @@ The Expense Tracker is a web application that allows users to track their income
 
 - Responsive Design: Optimized for various screen sizes for a seamless user experience.
 
-## Installation
-1. Clone the repository
-git clone https://github.com/your-username/expense-tracker.git
-
-2. Navigate to the project directory
-cd expense-tracker
-
-3. Open the index.html file in your browser
-
 ## Usage
 1. Add a Transaction
    - Enter a description (e.g., "Salary" or "Groceries") and amount.
